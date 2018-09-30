@@ -1,4 +1,4 @@
-# Zaibo's Issue Manager
+# An Issue Manager
 
 A completely custom, self-hosted webapp to keep my life together
 
